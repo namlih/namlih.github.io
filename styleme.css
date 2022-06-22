@@ -1,0 +1,22 @@
+header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+#classes {
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#movies {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#neighbors {
+    color: indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
