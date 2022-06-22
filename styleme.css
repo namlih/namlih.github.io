@@ -4,7 +4,20 @@ header {
 }
 
 body {
-    background-color: cornflowerblue;
+    background-color: turquoise;
+}
+
+p::first-letter {
+    font-size: 1.5em;
+}
+
+ol { 
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+li {
+    flex: 0 0 auto;
 }
 
 #classes {
@@ -14,6 +27,23 @@ body {
 
 #movies {
     font-family: 'Times New Roman', Times, serif;
+}
+
+#movies a{
+    text-decoration: none;
+
+}
+
+#movies dl{
+    color: lemonchiffon;
+}
+
+#movies dl dd{
+    color: olivedrab;
+}
+
+#movies a:hover {
+    text-decoration: underline;
 }
 
 #neighbors {
