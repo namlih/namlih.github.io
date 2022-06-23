@@ -1,0 +1,84 @@
+body {
+    border: 8px solid teal;
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+header{
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#pageheader{
+    font-size: 36px;
+    margin-left: 0px;
+    border-bottom: 6px solid teal;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#logo img{
+    height: 50px;
+    width: 50px;
+    margin-left: 12px;
+}
+
+#logout {
+    border: 2px solid black;
+    margin-right: 12px;
+    padding: 4px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 1px;
+    font-size: 0.6rem;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 10px 20px;
+}
+
+th {
+    background-color: rgb(235,235,235);
+    font-size: 24px;
+}
+
+td {
+    text-align: center;
+    font-size: 20px;
+}
+
+#cart{
+    height: 40px;
+    width: 40px;
+}
+
+#quantity {
+    border: 2px solid black;
+}
+
+#total{
+    text-align: right;
+}
+
+#placeorder{
+    border: 2px solid black;
+    margin-right: 12px;
+    margin-left: 12px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+}

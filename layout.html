@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Document</title>
+    <link href="style-layout.css" type="text/css" rel="stylesheet">  
+</head>
+<body> 
+
+    <div id="container">
+
+    <header id="pageheader"> 
+        <p id="logo"> <img src="logo.jpeg" alt="Profile Picture"></p> 
+        <p>Welcome</p> 
+        <p id="logout">Log out</p>
+    </header>
+
+    <div id="products">
+        <header>Product List</header>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Actions</th>
+        </tr>
+        <tr>
+            <td>Node.js</td>
+            <td>9.99</td>
+            <td>18</td>
+            <td><img id="cart" src="cart.jpeg" alt="Cart"></td>
+        </tr>
+        <tr>
+            <td>React</td>
+            <td>19.99</td>
+            <td>12</td>
+            <td><img id="cart" src="cart.jpeg" alt="Cart"></td>
+        </tr>
+        <tr>
+            <td>Angular</td>
+            <td>17.99</td>
+            <td>10</td>
+            <td><img id="cart" src="cart.jpeg" alt="Cart"></td>
+        </tr>
+        </table>
+    </div>
+
+
+    <div id="shoppingcart">
+        <header>Your Shopping Cart</header>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Total</th>
+            <th>Quantity</th>
+        </tr>
+        <tr>
+            <td>Node.js</td>
+            <td>9.99</td>
+            <td>99.90</td>
+            <td>- &nbsp; <a id="quantity">10</a>  &nbsp; +</td>
+        </tr>
+        <tr>
+            <td>React</td>
+            <td>19.99</td>
+            <td>99.95</td>
+            <td>- &nbsp; <a id="quantity">5</a>  &nbsp; +</td>
+        </tr>
+        <tr>
+            <td id="total" colspan="4"> Total: 199.85 </td>
+        </tr>
+        </table>
+    <p id="placeorder"> Place Order</p>
+    </div>
+
+    </div>
+</body>
+</html>
