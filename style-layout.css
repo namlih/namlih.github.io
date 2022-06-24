@@ -82,3 +82,8 @@ td {
     display: flex;
     justify-content: center;
 }
+
+#css-checker {
+    width: 88px;
+    height: 31px;
+}
