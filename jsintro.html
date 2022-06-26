@@ -3,17 +3,24 @@
 <head>
     <meta charset="utf-8"/>
     <title>Document</title>
-    <link href="style-form.css" type="text/css" rel="stylesheet"> 
 </head>
 <body>
-    <p></p>
+    <p>Question 1</p>
     <code>
-
+        function sum(arr){
+            return arr.filter(x => x > 20).reduce(function(accumulator, currentValue, currentIndex, array){ return accumulator + currentValue;});
+        } 
+        
+        console.log(sum([10,20,30,40]));
     </code>
 
-    <p></p>
+    <p>Question 2</p>
     <code>
-
+        function getNewArray(arr){
+            return arr.filter(x => x.includes("a")).filter(x => x.length >= 5);
+        }
+        
+        console.log(getNewArray(["abascbsab","cdsa","dyfmhfm"]));
     </code>
 </body>
 </html>
