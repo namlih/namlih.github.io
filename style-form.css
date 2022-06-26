@@ -1,0 +1,46 @@
+body {
+    border: 1px solid teal;
+}
+
+header{
+    border: 1px solid teal;
+    background-color: teal;
+    font-size: 30px;
+}
+
+header>a{
+    font-size: 15px;
+}
+
+#form{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 15px;
+}
+
+form>a{
+    text-decoration: underline;
+    margin: 32px;
+}
+
+.formcontent{
+    font-size: 18px;
+    margin: 10px;
+}
+
+.formcontent>div {
+    margin: 12px;
+}
+
+.formcontent>p{
+    text-decoration: underline;
+}
+
+#submit-reset{
+    margin-top: 4px;
+    border: 1px solid teal;
+    background-color: teal;
+    font-size: 18px;
+    text-align: center;
+}
