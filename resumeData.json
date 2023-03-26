@@ -131,19 +131,26 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Master's Thesis",
+        "title":"Master's Thesis at Technical University of Munich",
         "category":"Monthly Revenue Forecasts of Healthcare Diagnostics Reagents and Instruments Using Explainable Artificial Intelligence",
         "image":"master_thesis.png",
         "url":"https://drive.google.com/drive/folders/1YvePspROYEHW64OI_aTPEOm1LEQ_0J1N?usp=sharing"
       },
       {
-        "title":"Bachelor's Thesis",
+        "title":"Interdisciplinary Project at Technical University of Munich",
+        "category":"Assessment of user activity for the indication of price movements in capital markets",
+        "image":"idp.png",
+        "url":"https://drive.google.com/drive/folders/1CsAU3anL_LoNWojCUshjKziU_cAdeP9g?usp=sharing"
+      },
+      {
+        "title":"Bachelor's Thesis at Istanbul Technical University",
         "category":"Human Activity Recognition With Neural Networks",
         "image":"bachelor_thesis.png",
         "url":"https://drive.google.com/drive/folders/1aoY9TnETvVZf0W8eKIoHLnRA6_4zD81A?usp=sharing"
       },
+      
       {
-        "title":"Interdisciplinary Project",
+        "title":"Applied Deep Learning for NLP Course at Technical University of Munich",
         "category":"Assessment of user activity for the indication of price movements in capital markets",
         "image":"idp.png",
         "url":"https://drive.google.com/drive/folders/1CsAU3anL_LoNWojCUshjKziU_cAdeP9g?usp=sharing"
