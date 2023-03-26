@@ -151,9 +151,9 @@
       
       {
         "title":"Applied Deep Learning for NLP Course at Technical University of Munich",
-        "category":"Assessment of user activity for the indication of price movements in capital markets",
-        "image":"idp.png",
-        "url":"https://drive.google.com/drive/folders/1CsAU3anL_LoNWojCUshjKziU_cAdeP9g?usp=sharing"
+        "category":"Prediction of Trump vs. Biden support with Sentiment Classification Model trained on YouTube Comments",
+        "image":"alexa_ss.png",
+        "url":"https://github.com/namlih/applied-deep-learning-for-nlp-2021"
       }
     ]
   }
