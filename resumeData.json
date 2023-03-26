@@ -51,19 +51,19 @@
       {
         "school":"Maharishi International University",
         "degree":"Master of Science in Computer Science",
-        "graduated":"October 2024",
+        "graduated":"January 2022 - October 2024",
         "description":""
       },
       {
         "school":"Technical University of Munich",
         "degree":"Master of Science in Computer Science",
-        "graduated":"January 2022",
+        "graduated":"September 2018 - January 2022",
         "description":""
       },
       {
         "school":"Istanbul Technical University",
         "degree":"Bachelor of Science in Computer Science",
-        "graduated":"June 2018",
+        "graduated":"September 2012 - June 2018",
         "description":""
       }
     ],
@@ -132,6 +132,12 @@
     "projects": [
       {
         "title":"Master's Thesis",
+        "category":"Monthly Revenue Forecasts of Healthcare Diagnostics Reagents and Instruments Using Explainable Artificial Intelligence",
+        "image":"master_thesis.png",
+        "url":"https://drive.google.com/drive/folders/1YvePspROYEHW64OI_aTPEOm1LEQ_0J1N?usp=sharing"
+      },
+      {
+        "title":"Bachelor's Thesis",
         "category":"Monthly Revenue Forecasts of Healthcare Diagnostics Reagents and Instruments Using Explainable Artificial Intelligence",
         "image":"master_thesis",
         "url":"https://drive.google.com/drive/folders/1YvePspROYEHW64OI_aTPEOm1LEQ_0J1N?usp=sharing"
