@@ -15,12 +15,12 @@
       "state":"Massachusetts",
       "zip": "02139"
     },
-    "website": "namlih.github.io",
+    "website": "https://namlih.github.io",
     "resumedownload":"Resume.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/hasanburaknamli",
         "className":"fa fa-facebook"
       },
       {
@@ -30,89 +30,111 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/hasan-burak-namli/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/hasannamli/x",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/namlih",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Maharishi International University",
+        "degree":"Master of Science in Computer Science",
+        "graduated":"October 2024",
+        "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Technical University of Munich",
+        "degree":"Master of Science in Computer Science",
+        "graduated":"January 2022",
+        "description":""
+      },
+      {
+        "school":"Istanbul Technical University",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"June 2018",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"MeetCaregivers",
+        "title":"Software Engineer",
+        "years":"September 2022 - March 2023",
+        "description":"Implemented a dynamic pricing app where users can determine pricing of the caregiving service based on a Uber style dynamic pricing model. App is served through a UI and as a RESTful API with FastAPI. Automation of pricing projected to impact around 10 case managers who controls 100s of caregivers."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"ImoGate",
+        "title":"Software Engineer",
+        "years":"May 2021 - January 2022",
+        "description":" Implemented a data management and processing platform back-end. Heavily used Pandas library for data processing operations. Wrote SQL queries, stored procedures and functions to integrate database operations. Wrote unit tests with PyTest. Contributed %8-10 of the codebase in 6 months."
+      },
+      {
+        "company":"Siemens Healthineers",
+        "title":"Data Analyst",
+        "years":"Oct 2019 - August 2020",
+        "description":"Developed and maintained 2 major reports - Product Performance and Sales Book which is consumed by upper management including C-level executives. The analytics and visualization of these reports provided with Qlik Sense. ETL processes of these reports developed with Qlik Sense's internal SQL like language"
+      },
+      {
+        "company":"Siemens",
+        "title":"Data Scientist",
+        "years":"January 2019 - September 2019",
+        "description":"Developed and maintained 2 major reports - Product Performance and Sales Book which is consumed by upper management including C-level executives. The analytics and visualization of these reports provided with Qlik Sense. ETL processes of these reports developed with Qlik Sense's internal SQL like language"
+      },
+      {
+        "company":"Arcelik",
+        "title":"Data Scientist",
+        "years":"November 2017 - August 2018",
+        "description":"Developed a sales forecasting model for 10s of home appliance products. Analyzed statistical models and deep learning models on Jupyter Notebooks. Wrapped the models as a python package and infer the forecasts with batch execution. Created a dashboard with Qlik Sense and used MSSQL for data storage and query."
+      },
+      {
+        "company":"BiletBank",
+        "title":"Software Engineer",
+        "years":"June 2017 - November 2017",
+        "description":"Contributed to the software development of a flight ticket booking and purchasing system which designed solely for corporations. Worked with Kendo UI on the front-end. Used the ASP.NET"
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"JavaScript",
+        "level":"35%"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"30%"
+      },
+      {
+        "name":"C#",
+        "level":"20%"
+      },
+      {
+        "name":"R",
+        "level":"20%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Master's Thesis",
+        "category":"Monthly Revenue Forecasts of Healthcare Diagnostics Reagents and Instruments Using Explainable Artificial Intelligence",
+        "image":"",
+        "url":""
       }
     ]
   }
