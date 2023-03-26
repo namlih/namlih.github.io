@@ -10,9 +10,9 @@
     "github":"https://github.com/namlih",
     "project":"https://www.linkedin.com/in/hasan-burak-namli/",
     "address":{
-      "street":"street",
       "city":"Cambridge",
       "state":"Massachusetts",
+      "country":"USA",
       "zip": "02139"
     },
     "website": "https://namlih.github.io",
@@ -143,17 +143,16 @@
         "url":"https://drive.google.com/drive/folders/1CsAU3anL_LoNWojCUshjKziU_cAdeP9g?usp=sharing"
       },
       {
-        "title":"Bachelor's Thesis at Istanbul Technical University",
-        "category":"Human Activity Recognition With Neural Networks",
-        "image":"bachelor_thesis.png",
-        "url":"https://drive.google.com/drive/folders/1aoY9TnETvVZf0W8eKIoHLnRA6_4zD81A?usp=sharing"
-      },
-      
-      {
         "title":"Applied Deep Learning for NLP Course at Technical University of Munich",
         "category":"Prediction of Trump vs. Biden support with Sentiment Classification Model trained on YouTube Comments",
         "image":"alexa_ss.png",
         "url":"https://github.com/namlih/applied-deep-learning-for-nlp-2021"
+      },
+      {
+        "title":"Bachelor's Thesis at Istanbul Technical University",
+        "category":"Human Activity Recognition With Neural Networks",
+        "image":"bachelor_thesis.png",
+        "url":"https://drive.google.com/drive/folders/1aoY9TnETvVZf0W8eKIoHLnRA6_4zD81A?usp=sharing"
       }
     ]
   }
