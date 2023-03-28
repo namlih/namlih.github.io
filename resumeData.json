@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Hasan Burak Namli",
-    "description":"Software Engineer with 5 years of experience focused working on various Applied Data Science Projects on Time Series Forecasting and Natural Language Processing",
+    "description":"I am a highly skilled Software Engineer with 5 years of industry experience and a strong academic background. I hold a Master's degree from the prestigious Technical University of Munich Informatics Department, which is ranked among the top 30 Computer Science faculties worldwide. Currently, I am pursuing an applied Computer Science Master's program at Maharishi International University to enhance my knowledge and skills further. My areas of expertise include software development, time series analysis and forecasting, natural language processing techniques, and both relational and non-relational databases, including distributed databases. With a proven track record of delivering high-quality software solutions, I am committed to continuously expanding my knowledge and skills. I am passionate about software engineering and am seeking a challenging role that allows me to make a significant contribution to organizational success while further advancing my career.",
     "image":"profile_pic.jpeg",
     "bio":"Software Engineer professional with 5 years of experience. Recently graduated from the master's program at Technical University of Munich Informatics Department which is in top 30 CS faculties worldwide. Currently pursuing applied Computer Science master's program at Maharishi International University. Proficient in software development, time series analysis and forecasting, natural language processing techniques and both relational\/non-relational databases as well as distributed databases.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -16,7 +16,7 @@
       "zip": "02139"
     },
     "website": "https://namlih.github.io",
-    "resumedownload":"Resume-Hasan Burak Namli.pdf",
+    "resumedownload":"Resume-Hasan_Burak_Namli.pdf",
     "social":[
       {
         "name":"facebook",
